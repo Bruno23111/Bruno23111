@@ -1,4 +1,4 @@
-## Hi there 👋
+á👋ó💼ã—🤖🎓çã🧠—çãéê⚡á🛠️··········📌————📫à## Hi there 👋
 
 <!--
 **Bruno23111/Bruno23111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
