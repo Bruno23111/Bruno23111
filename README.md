@@ -2,11 +2,10 @@
 
 Desenvolvedor Full-Stack, atuando com **.NET/C#** e **Angular** em sistemas corporativos, e estudando **IA aplicada (RAG e agentes)** por conta propria.
 
-- Atualmente desenvolvendo o **SmartZ**, sistema para o projeto Sao Martinho — backend em .NET/C# (arquitetura em camadas com EF Core) e frontend em Angular com PrimeNG
-- Construindo o **Jhony**, um chatbot de IA com RAG e arquitetura agentic (LangGraph), rodando modelos locais via Ollama
+- Desenvolvedor backend em .NET/C# (arquitetura em camadas com EF Core) e frontend em Angular com PrimeNG
+- Desenvolvedor de chatbot de IA com RAG e arquitetura agentic (LangGraph), rodando modelos locais via Ollama
 - Cursando graduacao na **UNISAGRADO** (Bauru-SP), com TCC comparando **Clean Architecture x MVC** em .NET/React
 - Estudando fundamentos de LLMs, RAG e agentes — desde mecanismos de atencao ate inferencia com vLLM
-- Interesses pessoais: carros classicos brasileiros, games e Linux/infra
 
 ## Stack
 
