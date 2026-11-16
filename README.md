@@ -1,22 +1,19 @@
-# Olá, eu sou o Bruno 👋
+# Olá, sou o Bruno 👋
 
-Desenvolvedor Full-Stack com foco em **.NET/C#** e **Angular**. Também estudo IA aplicada, especialmente RAG e agentes.
+Analista de Desenvolvimento de Sistemas na Zella Sistemas. Trabalho com **.NET/C#**, **Angular** e **SQL Server**, além de desenvolver soluções de IA com **Python**, **RAG** e **vLLM**.
 
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,python,git,flutter" alt="C#, .NET, Angular, Python, Git e Flutter" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,python,git,docker" alt="C#, .NET, Angular, TypeScript, Python, Git e Docker" />
 </p>
 
-**Também uso:** Entity Framework Core, SQL Server e PrimeNG
-
-**Estudando:** LangGraph, Ollama, RAG e vLLM
+**Também uso:** ASP.NET Core, Entity Framework Core, APIs REST e testes.
 
 ## Projetos
 
-- [Dailytasks](https://github.com/Bruno23111/Dailytasks) — API para organizar tarefas
-- [DailysFrontEnd](https://github.com/Bruno23111/DailysFrontEnd) — interface para a API Dailytasks
+- Sistema de Backlog — .NET 10 e Angular 21; em desenvolvimento
 - [leitor_libras](https://github.com/Bruno23111/leitor_libras) — reconhecimento de gestos em Libras
-- [libras_traducao_alfabeto](https://github.com/Bruno23111/libras_traducao_alfabeto) — reconhecimento do alfabeto em Libras
+- [iniciacao_cientifica_finalizado](https://github.com/Bruno23111/iniciacao_cientifica_finalizado) — jogo para reabilitação cognitiva
 
-📫 Fique à vontade para entrar em contato pelo GitHub.
+[LinkedIn](https://linkedin.com/in/bruno-bomfim-lima) · [E-mail](mailto:brunobomfimlima@gmail.com)
