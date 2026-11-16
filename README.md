@@ -1,26 +1,22 @@
-# Ola, eu sou o Bruno
+# Olá, eu sou o Bruno 👋
 
-Desenvolvedor Full-Stack, atuando com **.NET/C#** e **Angular** em sistemas corporativos, e estudando **IA aplicada (RAG e agentes)** por conta propria.
+Desenvolvedor Full-Stack com foco em **.NET/C#** e **Angular**. Também estudo IA aplicada, especialmente RAG e agentes.
 
-- Desenvolvedor backend em .NET/C# (arquitetura em camadas com EF Core) e frontend em Angular com PrimeNG
-- Desenvolvedor de chatbot de IA com RAG e arquitetura agentic (LangGraph), rodando modelos locais via Ollama
-- Cursando graduacao na **UNISAGRADO** (Bauru-SP), com TCC comparando **Clean Architecture x MVC** em .NET/React
-- Estudando fundamentos de LLMs, RAG e agentes — desde mecanismos de atencao ate inferencia com vLLM
+## Tecnologias
 
-## Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,python,git,flutter" alt="C#, .NET, Angular, Python, Git e Flutter" />
+</p>
 
-**Backend:** C# . .NET . Entity Framework Core . SQL Server
-**Frontend:** Angular . PrimeNG . Reactive Forms
-**IA / Estudo:** Python . LangGraph . Ollama . RAG . vLLM
-**Outros:** Flutter . Git
+**Também uso:** Entity Framework Core, SQL Server e PrimeNG
 
-## Projetos em destaque
+**Estudando:** LangGraph, Ollama, RAG e vLLM
 
-- **[Dailytasks](https://github.com/Bruno23111/Dailytasks)** — API backend em Python para organizar tarefas do cotidiano
-- **[DailysFrontEnd](https://github.com/Bruno23111/DailysFrontEnd)** — interface para consumir a API do Dailytasks
-- **[leitor_libras](https://github.com/Bruno23111/leitor_libras)** — processamento de imagens e sinais para traduzir gestos em Libras
-- **[libras_traducao_alfabeto](https://github.com/Bruno23111/libras_traducao_alfabeto)** — reconhecimento do alfabeto em Libras
+## Projetos
 
-## Contato
+- [Dailytasks](https://github.com/Bruno23111/Dailytasks) — API para organizar tarefas
+- [DailysFrontEnd](https://github.com/Bruno23111/DailysFrontEnd) — interface para a API Dailytasks
+- [leitor_libras](https://github.com/Bruno23111/leitor_libras) — reconhecimento de gestos em Libras
+- [libras_traducao_alfabeto](https://github.com/Bruno23111/libras_traducao_alfabeto) — reconhecimento do alfabeto em Libras
 
-Fique a vontade para abrir uma issue ou entrar em contato por aqui mesmo no GitHub.
+📫 Fique à vontade para entrar em contato pelo GitHub.
